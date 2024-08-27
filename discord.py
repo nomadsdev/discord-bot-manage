@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 import asyncio
 
+
 TOKEN = 'YOUR_BOT_TOKEN_HERE'
 
 intents = discord.Intents.default()
